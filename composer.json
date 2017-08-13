@@ -1,11 +1,11 @@
 {
   "name": "setbased/abc-canonical-hostname-resolver",
-  "description": "ABC Framework: Canonical Hostname Resolver",
+  "description": "ABC-Framework: Canonical Hostname Resolver",
   "keywords": [
-    "framework",
-    "canonical",
-    "hostname",
-    "resolver"
+    "ABC-Framework",
+    "Canonical",
+    "Hostname",
+    "Resolver"
   ],
   "require": {
     "php": ">=7.0.0"
