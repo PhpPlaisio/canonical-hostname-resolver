@@ -1,0 +1,9 @@
+<kernel>
+    <properties>
+        <property>
+            <type>\Plaisio\CanonicalHostnameResolver\CanonicalHostnameResolver</type>
+            <name>canonicalHostnameResolver</name>
+            <description>The helper object for deriving the canonical hostname.</description>
+        </property>
+    </properties>
+</kernel>
